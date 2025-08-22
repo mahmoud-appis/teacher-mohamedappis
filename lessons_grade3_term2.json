@@ -1,0 +1,67 @@
+{
+  "نحو": [
+    {
+      "title": "درس النحو التطبيقي",
+      "video": "https://www.youtube.com/embed/example30",
+      "quiz": [
+        {
+          "question": "تطبيق النحو؟",
+          "options": ["في الكتابة", "في الرسم", "في الغناء"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "قراءة": [
+    {
+      "title": "درس القراءة الإبداعية",
+      "video": "https://www.youtube.com/embed/example31",
+      "quiz": [
+        {
+          "question": "ما هي القراءة الإبداعية؟",
+          "options": ["تخيل", "حفظ", "نسخ"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "نصوص": [
+    {
+      "title": "درس النصوص العالمية",
+      "video": "https://www.youtube.com/embed/example32",
+      "quiz": [
+        {
+          "question": "ما هي النصوص العالمية؟",
+          "options": ["أدب دولي", "محلي", "رياضي"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "بلاغة": [
+    {
+      "title": "درس المعاني",
+      "video": "https://www.youtube.com/embed/example33",
+      "quiz": [
+        {
+          "question": "ما هي المعاني؟",
+          "options": ["علم البلاغة", "نحو", "صرف"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "أدب": [
+    {
+      "title": "درس الأدب الرومانسي",
+      "video": "https://www.youtube.com/embed/example34",
+      "quiz": [
+        {
+          "question": "ما هو الأدب الرومانسي؟",
+          "options": ["عواطف", "علم", "رياضيات"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

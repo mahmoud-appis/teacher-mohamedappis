@@ -1,0 +1,78 @@
+{
+  "نحو": [
+    {
+      "title": "درس الإعراب",
+      "video": "https://www.youtube.com/embed/example8",
+      "quiz": [
+        {
+          "question": "ما هو الإعراب؟",
+          "options": ["تغيير نهاية الكلمة", "الكتابة", "القراءة"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "title": "درس الإضافة",
+      "video": "https://www.youtube.com/embed/example9",
+      "quiz": [
+        {
+          "question": "مثال على إضافة؟",
+          "options": ["كتاب الطالب", "الكتاب", "طالب"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "قراءة": [
+    {
+      "title": "درس فهم النصوص",
+      "video": "https://www.youtube.com/embed/example10",
+      "quiz": [
+        {
+          "question": "كيف تفهم النص؟",
+          "options": ["قراءة متأنية", "تجاهل", "نسخ"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "نصوص": [
+    {
+      "title": "درس النصوص الشعرية",
+      "video": "https://www.youtube.com/embed/example11",
+      "quiz": [
+        {
+          "question": "ما هو الشعر؟",
+          "options": ["كلام موزون", "نثر", "غناء"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "بلاغة": [
+    {
+      "title": "درس الاستعارة",
+      "video": "https://www.youtube.com/embed/example12",
+      "quiz": [
+        {
+          "question": "ما هي الاستعارة؟",
+          "options": ["تشبيه محذوف", "حقيقة", "كذب"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "أدب": [
+    {
+      "title": "درس الأدب الإسلامي",
+      "video": "https://www.youtube.com/embed/example13",
+      "quiz": [
+        {
+          "question": "من شعراء العصر الإسلامي؟",
+          "options": ["الحسن بن هانئ", "ديكنز", "فيكتور هيغو"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

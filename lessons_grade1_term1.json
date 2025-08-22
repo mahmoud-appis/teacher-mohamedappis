@@ -1,0 +1,104 @@
+{
+  "نحو": [
+    {
+      "title": "درس المبتدأ والخبر",
+      "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "quiz": [
+        {
+          "question": "ما هو المبتدأ؟",
+          "options": ["اسم مرفوع", "فعل", "حرف"],
+          "answer": 0
+        },
+        {
+          "question": "ما هو الخبر؟",
+          "options": ["مرفوع", "منصوب", "مجرور"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "title": "درس الفعل المضارع",
+      "video": "https://www.youtube.com/embed/example2",
+      "quiz": [
+        {
+          "question": "كيف يرفع الفعل المضارع؟",
+          "options": ["بالضمة", "بالفتحة", "بالكسرة"],
+          "answer": 0
+        },
+        {
+          "question": "مثال على فعل مضارع؟",
+          "options": ["يدرس", "درس", "سيدرس"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "قراءة": [
+    {
+      "title": "درس القراءة الأساسية",
+      "video": "https://www.youtube.com/embed/example3",
+      "quiz": [
+        {
+          "question": "ما هي القراءة؟",
+          "options": ["قراءة", "كتابة", "سماع"],
+          "answer": 0
+        },
+        {
+          "question": "أهمية القراءة؟",
+          "options": ["زيادة المعرفة", "النوم", "الأكل"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "title": "درس القراءة المتقدمة",
+      "video": "https://www.youtube.com/embed/example4",
+      "quiz": [
+        {
+          "question": "ما هي القراءة المتقدمة؟",
+          "options": ["تحليل النصوص", "القراءة السريعة", "كليهما"],
+          "answer": 2
+        }
+      ]
+    }
+  ],
+  "نصوص": [
+    {
+      "title": "درس النصوص الأدبية",
+      "video": "https://www.youtube.com/embed/example5",
+      "quiz": [
+        {
+          "question": "ما هو النص؟",
+          "options": ["كتابة متصلة", "صورة", "صوت"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "بلاغة": [
+    {
+      "title": "درس البلاغة الأساسية",
+      "video": "https://www.youtube.com/embed/example6",
+      "quiz": [
+        {
+          "question": "ما هي البلاغة؟",
+          "options": ["فن الكلام", "الرسم", "الغناء"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "أدب": [
+    {
+      "title": "درس الأدب العربي",
+      "video": "https://www.youtube.com/embed/example7",
+      "quiz": [
+        {
+          "question": "من شعراء العصر الجاهلي؟",
+          "options": ["الأعشى", "شكسبير", "هوميروس"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

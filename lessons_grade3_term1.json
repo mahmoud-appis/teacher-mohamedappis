@@ -1,0 +1,67 @@
+{
+  "نحو": [
+    {
+      "title": "درس النحو المتقدم",
+      "video": "https://www.youtube.com/embed/example25",
+      "quiz": [
+        {
+          "question": "ما هو النحو؟",
+          "options": ["قواعد اللغة", "أدب", "تاريخ"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "قراءة": [
+    {
+      "title": "درس القراءة النقدية",
+      "video": "https://www.youtube.com/embed/example26",
+      "quiz": [
+        {
+          "question": "ما هي القراءة النقدية؟",
+          "options": ["تقييم النص", "قراءة عادية", "نسخ"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "نصوص": [
+    {
+      "title": "درس النصوص الحديثة",
+      "video": "https://www.youtube.com/embed/example27",
+      "quiz": [
+        {
+          "question": "ما هي النصوص الحديثة؟",
+          "options": ["أدب معاصر", "قديم", "رياضي"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "بلاغة": [
+    {
+      "title": "درس البديع",
+      "video": "https://www.youtube.com/embed/example28",
+      "quiz": [
+        {
+          "question": "ما هو البديع؟",
+          "options": ["تحسين الكلام", "تخريب", "صمت"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "أدب": [
+    {
+      "title": "درس الأدب المعاصر",
+      "video": "https://www.youtube.com/embed/example29",
+      "quiz": [
+        {
+          "question": "من كتاب المعاصرين؟",
+          "options": ["نجيب محفوظ", "شكسبير", "هوميروس"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

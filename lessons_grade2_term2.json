@@ -1,0 +1,67 @@
+{
+  "نحو": [
+    {
+      "title": "درس النداء",
+      "video": "https://www.youtube.com/embed/example20",
+      "quiz": [
+        {
+          "question": "إعراب المنادى؟",
+          "options": ["منصوب", "مرفوع", "مجرور"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "قراءة": [
+    {
+      "title": "درس التحليل الأدبي",
+      "video": "https://www.youtube.com/embed/example21",
+      "quiz": [
+        {
+          "question": "ما هو التحليل الأدبي؟",
+          "options": ["تفسير النص", "كتابة", "رسم"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "نصوص": [
+    {
+      "title": "درس النصوص التاريخية",
+      "video": "https://www.youtube.com/embed/example22",
+      "quiz": [
+        {
+          "question": "ما هي النصوص التاريخية؟",
+          "options": ["سرد أحداث", "خيال", "رياضيات"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "بلاغة": [
+    {
+      "title": "درس التشبيه",
+      "video": "https://www.youtube.com/embed/example23",
+      "quiz": [
+        {
+          "question": "ما هو التشبيه؟",
+          "options": ["مقارنة", "تفريق", "جمع"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "أدب": [
+    {
+      "title": "درس الأدب الأندلسي",
+      "video": "https://www.youtube.com/embed/example24",
+      "quiz": [
+        {
+          "question": "من شعراء الأندلس؟",
+          "options": ["ابن زيدون", "جويس", "تولستوي"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

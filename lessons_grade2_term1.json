@@ -1,0 +1,78 @@
+{
+  "نحو": [
+    {
+      "title": "درس الجملة الفعلية",
+      "video": "https://www.youtube.com/embed/example14",
+      "quiz": [
+        {
+          "question": "ما هي الجملة الفعلية؟",
+          "options": ["تبدأ بفعل", "تبدأ باسم", "تبدأ بحرف"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "title": "درس المفعول به",
+      "video": "https://www.youtube.com/embed/example15",
+      "quiz": [
+        {
+          "question": "إعراب المفعول به؟",
+          "options": ["منصوب", "مرفوع", "مجرور"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "قراءة": [
+    {
+      "title": "درس التلخيص",
+      "video": "https://www.youtube.com/embed/example16",
+      "quiz": [
+        {
+          "question": "ما هو التلخيص؟",
+          "options": ["اختصار النص", "توسيع", "حذف"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "نصوص": [
+    {
+      "title": "درس النصوص النثرية",
+      "video": "https://www.youtube.com/embed/example17",
+      "quiz": [
+        {
+          "question": "ما هو النثر؟",
+          "options": ["كلام غير موزون", "شعر", "غناء"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "بلاغة": [
+    {
+      "title": "درس الكناية",
+      "video": "https://www.youtube.com/embed/example18",
+      "quiz": [
+        {
+          "question": "ما هي الكناية؟",
+          "options": ["تعبير غير مباشر", "مباشر", "كذب"],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "أدب": [
+    {
+      "title": "درس الأدب العباسي",
+      "video": "https://www.youtube.com/embed/example19",
+      "quiz": [
+        {
+          "question": "من شعراء العصر العباسي؟",
+          "options": ["أبو نواس", "جويس", "تولستوي"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
